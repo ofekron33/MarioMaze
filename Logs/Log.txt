@@ -1,0 +1,467 @@
+INFO - test log
+INFO - 2020-06-22T18:29:57.937 - New Maze request!
+INFO - 2020-06-22T18:41:57.401 - Starting Maze generating Server  
+INFO - 2020-06-22T18:41:57.402 - Starting Maze solving Server  
+INFO - 2020-06-22T18:42:00.715 - Maze generating server stopped 
+INFO - 2020-06-22T18:42:00.715 - Maze solving server stopped 
+INFO - 2020-06-22T18:42:51.163 - Starting Maze generating Server  
+INFO - 2020-06-22T18:42:51.183 - Starting Maze solving Server  
+INFO - 2020-06-22T18:42:53.657 - Maze generating server stopped 
+INFO - 2020-06-22T18:42:53.658 - Maze solving server stopped 
+INFO - 2020-06-22T18:43:20.791 - Creating Maze generating Server  
+INFO - 2020-06-22T18:43:20.810 - Creating Maze solving Server 
+INFO - 2020-06-22T18:43:20.811 - Starting Maze generating Server  
+INFO - 2020-06-22T18:43:20.813 - Starting Maze solving Server  
+INFO - 2020-06-22T18:43:22.659 - New Maze request!
+INFO - 2020-06-22T18:43:25.482 - New Maze request!
+INFO - 2020-06-22T18:43:27.666 - New Maze request!
+INFO - 2020-06-22T18:43:33.085 - New Maze request!
+INFO - 2020-06-22T18:43:36.628 - New Maze request!
+INFO - 2020-06-22T18:43:43.851 - New Maze request!
+INFO - 2020-06-22T18:43:59.265 - Requesting Maze solution 
+INFO - 2020-06-22T18:44:10.723 - Maze Loaded 
+INFO - 2020-06-22T18:44:12.318 - Requesting Maze solution 
+INFO - 2020-06-22T18:44:16.628 - Maze generating server stopped 
+INFO - 2020-06-22T18:44:16.629 - Maze solving server stopped 
+INFO - 2020-06-22T18:59:20.387 - Creating Maze generating Server  
+INFO - 2020-06-22T18:59:20.406 - Creating Maze solving Server 
+INFO - 2020-06-22T18:59:20.407 - Starting Maze generating Server  
+INFO - 2020-06-22T18:59:20.407 - Starting Maze solving Server  
+INFO - 2020-06-22T18:59:21.945 - New Maze request!
+INFO - 2020-06-22T18:59:24.323 - New Maze request!
+INFO - 2020-06-22T18:59:29.212 - New Maze request!
+INFO - 2020-06-22T18:59:36.270 - New Maze request!
+INFO - 2020-06-22T18:59:46.106 - New Maze request!
+INFO - 2020-06-22T18:59:59.477 - Maze generating server stopped 
+INFO - 2020-06-22T18:59:59.477 - Maze solving server stopped 
+INFO - 2020-06-22T19:09:05.199 - Creating Maze generating Server  
+INFO - 2020-06-22T19:09:05.217 - Creating Maze solving Server 
+INFO - 2020-06-22T19:09:05.221 - Starting Maze generating Server  
+INFO - 2020-06-22T19:09:05.222 - Starting Maze solving Server  
+INFO - 2020-06-22T19:09:11.905 - Maze generating server stopped 
+INFO - 2020-06-22T19:09:11.905 - Maze solving server stopped 
+INFO - 2020-06-22T19:09:23.857 - Creating Maze generating Server  
+INFO - 2020-06-22T19:09:23.875 - Creating Maze solving Server 
+INFO - 2020-06-22T19:09:23.876 - Starting Maze generating Server  
+INFO - 2020-06-22T19:09:23.878 - Starting Maze solving Server  
+INFO - 2020-06-22T19:09:26.779 - New Maze request!
+INFO - 2020-06-22T19:09:29.528 - New Maze request!
+INFO - 2020-06-22T19:09:32.971 - Maze generating server stopped 
+INFO - 2020-06-22T19:09:32.971 - Maze solving server stopped 
+INFO - 2020-06-22T19:13:52.528 - Creating Maze generating Server  
+INFO - 2020-06-22T19:13:52.548 - Creating Maze solving Server 
+INFO - 2020-06-22T19:13:52.549 - Starting Maze generating Server  
+INFO - 2020-06-22T19:13:52.551 - Starting Maze solving Server  
+INFO - 2020-06-22T19:13:53.762 - Maze generating server stopped 
+INFO - 2020-06-22T19:13:53.762 - Maze solving server stopped 
+INFO - 2020-06-22T19:17:29.720 - Creating Maze generating Server  
+INFO - 2020-06-22T19:17:29.744 - Creating Maze solving Server 
+INFO - 2020-06-22T19:17:29.746 - Starting Maze generating Server  
+INFO - 2020-06-22T19:17:29.747 - Starting Maze solving Server  
+INFO - 2020-06-22T19:17:31.099 - Maze generating server stopped 
+INFO - 2020-06-22T19:17:31.099 - Maze solving server stopped 
+INFO - 2020-06-22T19:22:07.338 - Creating Maze generating Server  
+INFO - 2020-06-22T19:22:07.356 - Creating Maze solving Server 
+INFO - 2020-06-22T19:22:07.357 - Starting Maze generating Server  
+INFO - 2020-06-22T19:22:07.357 - Starting Maze solving Server  
+INFO - 2020-06-22T19:22:15.040 - Maze generating server stopped 
+INFO - 2020-06-22T19:22:15.040 - Maze solving server stopped 
+INFO - 2020-06-22T19:46:00.923 - Creating Maze generating Server  
+INFO - 2020-06-22T19:46:00.943 - Creating Maze solving Server 
+INFO - 2020-06-22T19:46:00.945 - Starting Maze generating Server  
+INFO - 2020-06-22T19:46:00.946 - Starting Maze solving Server  
+INFO - 2020-06-22T19:46:08.215 - New Maze request!
+INFO - 2020-06-22T19:46:14.763 - New Maze request!
+INFO - 2020-06-22T19:46:15.816 - Requesting Maze solution 
+INFO - 2020-06-22T19:47:45.929 - Creating Maze generating Server  
+INFO - 2020-06-22T19:47:45.951 - Creating Maze solving Server 
+INFO - 2020-06-22T19:47:45.952 - Starting Maze generating Server  
+INFO - 2020-06-22T19:47:45.953 - Starting Maze solving Server  
+INFO - 2020-06-22T19:47:58.779 - New Maze request!
+INFO - 2020-06-22T19:47:59.647 - Requesting Maze solution 
+INFO - 2020-06-22T19:48:10.997 - Maze generating server stopped 
+INFO - 2020-06-22T19:48:10.997 - Maze solving server stopped 
+INFO - 2020-06-22T20:02:17.113 - Creating Maze generating Server  
+INFO - 2020-06-22T20:02:17.132 - Creating Maze solving Server 
+INFO - 2020-06-22T20:02:17.133 - Starting Maze generating Server  
+INFO - 2020-06-22T20:02:17.133 - Starting Maze solving Server  
+INFO - 2020-06-22T20:02:20.972 - New Maze request!
+INFO - 2020-06-22T20:02:30.078 - Maze generating server stopped 
+INFO - 2020-06-22T20:02:30.078 - Maze solving server stopped 
+INFO - 2020-06-22T20:04:26.826 - Creating Maze generating Server  
+INFO - 2020-06-22T20:04:26.843 - Creating Maze solving Server 
+INFO - 2020-06-22T20:04:26.844 - Starting Maze generating Server  
+INFO - 2020-06-22T20:04:26.845 - Starting Maze solving Server  
+INFO - 2020-06-22T20:04:40.189 - New Maze request!
+INFO - 2020-06-22T20:04:44.144 - New Maze request!
+INFO - 2020-06-22T20:04:48.544 - Maze generating server stopped 
+INFO - 2020-06-22T20:04:48.544 - Maze solving server stopped 
+INFO - 2020-06-22T20:06:54.387 - Creating Maze generating Server  
+INFO - 2020-06-22T20:06:54.410 - Creating Maze solving Server 
+INFO - 2020-06-22T20:06:54.412 - Starting Maze generating Server  
+INFO - 2020-06-22T20:06:54.413 - Starting Maze solving Server  
+INFO - 2020-06-22T20:06:56.306 - New Maze request!
+INFO - 2020-06-22T20:06:58.799 - New Maze request!
+INFO - 2020-06-22T20:07:03.348 - Maze generating server stopped 
+INFO - 2020-06-22T20:07:03.348 - Maze solving server stopped 
+INFO - 2020-06-22T20:18:06.007 - Creating Maze generating Server  
+INFO - 2020-06-22T20:18:06.026 - Creating Maze solving Server 
+INFO - 2020-06-22T20:18:06.027 - Starting Maze generating Server  
+INFO - 2020-06-22T20:18:06.028 - Starting Maze solving Server  
+INFO - 2020-06-22T20:18:07.982 - New Maze request!
+INFO - 2020-06-22T20:18:15.240 - Maze generating server stopped 
+INFO - 2020-06-22T20:18:15.241 - Maze solving server stopped 
+INFO - 2020-06-22T20:30:55.704 - Creating Maze generating Server  
+INFO - 2020-06-22T20:30:55.744 - Creating Maze solving Server 
+INFO - 2020-06-22T20:30:55.745 - Starting Maze generating Server  
+INFO - 2020-06-22T20:30:55.746 - Starting Maze solving Server  
+INFO - 2020-06-22T20:31:00.661 - New Maze request!
+INFO - 2020-06-22T20:31:08.203 - Maze generating server stopped 
+INFO - 2020-06-22T20:31:08.204 - Maze solving server stopped 
+INFO - 2020-06-22T20:31:42.117 - Creating Maze generating Server  
+INFO - 2020-06-22T20:31:42.133 - Creating Maze solving Server 
+INFO - 2020-06-22T20:31:42.134 - Starting Maze generating Server  
+INFO - 2020-06-22T20:31:42.135 - Starting Maze solving Server  
+INFO - 2020-06-22T20:31:44.464 - New Maze request!
+INFO - 2020-06-22T20:31:48.216 - New Maze request!
+INFO - 2020-06-22T20:32:05.430 - Maze generating server stopped 
+INFO - 2020-06-22T20:32:05.430 - Maze solving server stopped 
+INFO - 2020-06-22T20:32:50.441 - Creating Maze generating Server  
+INFO - 2020-06-22T20:32:50.457 - Creating Maze solving Server 
+INFO - 2020-06-22T20:32:50.459 - Starting Maze generating Server  
+INFO - 2020-06-22T20:32:50.459 - Starting Maze solving Server  
+INFO - 2020-06-22T20:32:52.098 - New Maze request!
+INFO - 2020-06-22T20:32:52.847 - Requesting Maze solution 
+INFO - 2020-06-22T20:33:30.165 - Creating Maze generating Server  
+INFO - 2020-06-22T20:33:30.185 - Creating Maze solving Server 
+INFO - 2020-06-22T20:33:30.187 - Starting Maze generating Server  
+INFO - 2020-06-22T20:33:30.187 - Starting Maze solving Server  
+INFO - 2020-06-22T20:33:32.876 - New Maze request!
+INFO - 2020-06-22T20:33:35.823 - New Maze request!
+INFO - 2020-06-22T20:33:39.247 - Requesting Maze solution 
+INFO - 2020-06-22T20:33:51.444 - New Maze request!
+INFO - 2020-06-22T20:33:55.223 - Maze generating server stopped 
+INFO - 2020-06-22T20:33:55.223 - Maze solving server stopped 
+INFO - 2020-06-22T20:35:57.405 - Creating Maze generating Server  
+INFO - 2020-06-22T20:35:57.424 - Creating Maze solving Server 
+INFO - 2020-06-22T20:35:57.425 - Starting Maze generating Server  
+INFO - 2020-06-22T20:35:57.426 - Starting Maze solving Server  
+INFO - 2020-06-22T20:36:01.059 - New Maze request!
+INFO - 2020-06-22T20:36:20.230 - Maze generating server stopped 
+INFO - 2020-06-22T20:36:20.230 - Maze solving server stopped 
+INFO - 2020-06-22T20:36:48.183 - Creating Maze generating Server  
+INFO - 2020-06-22T20:36:48.200 - Creating Maze solving Server 
+INFO - 2020-06-22T20:36:48.201 - Starting Maze generating Server  
+INFO - 2020-06-22T20:36:48.202 - Starting Maze solving Server  
+INFO - 2020-06-22T20:36:50.742 - New Maze request!
+INFO - 2020-06-22T20:37:05.718 - Maze generating server stopped 
+INFO - 2020-06-22T20:37:05.719 - Maze solving server stopped 
+INFO - 2020-06-22T21:13:41.441 - Creating Maze generating Server  
+INFO - 2020-06-22T21:13:41.458 - Creating Maze solving Server 
+INFO - 2020-06-22T21:13:41.459 - Starting Maze generating Server  
+INFO - 2020-06-22T21:13:41.460 - Starting Maze solving Server  
+INFO - 2020-06-22T21:13:43.910 - New Maze request!
+INFO - 2020-06-22T21:13:47.111 - New Maze request!
+INFO - 2020-06-22T21:13:49.451 - New Maze request!
+INFO - 2020-06-22T21:13:50.532 - Maze generating server stopped 
+INFO - 2020-06-22T21:13:50.532 - Maze solving server stopped 
+INFO - 2020-06-22T21:15:41.979 - Creating Maze generating Server  
+INFO - 2020-06-22T21:15:41.995 - Creating Maze solving Server 
+INFO - 2020-06-22T21:15:41.996 - Starting Maze generating Server  
+INFO - 2020-06-22T21:15:41.996 - Starting Maze solving Server  
+INFO - 2020-06-22T21:15:54.658 - New Maze request!
+INFO - 2020-06-22T21:16:00.353 - New Maze request!
+INFO - 2020-06-22T21:16:01.230 - Maze generating server stopped 
+INFO - 2020-06-22T21:16:01.230 - Maze solving server stopped 
+INFO - 2020-06-22T21:16:08.993 - Creating Maze generating Server  
+INFO - 2020-06-22T21:16:09.009 - Creating Maze solving Server 
+INFO - 2020-06-22T21:16:09.010 - Starting Maze generating Server  
+INFO - 2020-06-22T21:16:09.010 - Starting Maze solving Server  
+INFO - 2020-06-22T21:16:14.871 - New Maze request!
+INFO - 2020-06-22T21:16:20.055 - New Maze request!
+INFO - 2020-06-22T21:16:32.194 - Maze generating server stopped 
+INFO - 2020-06-22T21:16:32.195 - Maze solving server stopped 
+INFO - 2020-06-22T21:17:20.315 - Creating Maze generating Server  
+INFO - 2020-06-22T21:17:20.332 - Creating Maze solving Server 
+INFO - 2020-06-22T21:17:20.336 - Starting Maze generating Server  
+INFO - 2020-06-22T21:17:20.337 - Starting Maze solving Server  
+INFO - 2020-06-22T21:17:22.640 - New Maze request!
+INFO - 2020-06-22T21:17:34.968 - New Maze request!
+INFO - 2020-06-22T21:17:47.475 - New Maze request!
+INFO - 2020-06-22T21:17:53.617 - New Maze request!
+INFO - 2020-06-22T21:18:03.599 - New Maze request!
+INFO - 2020-06-22T21:18:09.780 - New Maze request!
+INFO - 2020-06-22T21:18:27.212 - New Maze request!
+INFO - 2020-06-22T21:18:34.803 - New Maze request!
+INFO - 2020-06-22T21:18:36.226 - New Maze request!
+INFO - 2020-06-22T21:18:49.652 - New Maze request!
+INFO - 2020-06-22T21:18:56.151 - New Maze request!
+INFO - 2020-06-22T21:19:11.269 - Maze generating server stopped 
+INFO - 2020-06-22T21:19:11.269 - Maze solving server stopped 
+INFO - 2020-06-23T20:16:30.919 - Creating Maze generating Server  
+INFO - 2020-06-23T20:16:30.974 - Creating Maze solving Server 
+INFO - 2020-06-23T20:16:30.975 - Starting Maze generating Server  
+INFO - 2020-06-23T20:16:30.976 - Starting Maze solving Server  
+INFO - 2020-06-23T20:16:37.311 - New Maze request!
+INFO - 2020-06-23T20:16:40.335 - New Maze request!
+INFO - 2020-06-23T20:16:54.595 - Maze generating server stopped 
+INFO - 2020-06-23T20:16:54.596 - Maze solving server stopped 
+INFO - 2020-06-23T20:38:46.199 - Creating Maze generating Server  
+INFO - 2020-06-23T20:38:46.217 - Creating Maze solving Server 
+INFO - 2020-06-23T20:38:46.218 - Starting Maze generating Server  
+INFO - 2020-06-23T20:38:46.218 - Starting Maze solving Server  
+INFO - 2020-06-23T20:38:54.856 - New Maze request!
+INFO - 2020-06-23T20:38:59.722 - New Maze request!
+INFO - 2020-06-23T20:39:00.658 - Requesting Maze solution 
+INFO - 2020-06-23T20:39:19.543 - Maze generating server stopped 
+INFO - 2020-06-23T20:39:19.543 - Maze solving server stopped 
+INFO - 2020-06-23T20:39:33.293 - Creating Maze generating Server  
+INFO - 2020-06-23T20:39:33.313 - Creating Maze solving Server 
+INFO - 2020-06-23T20:39:33.314 - Starting Maze generating Server  
+INFO - 2020-06-23T20:39:33.314 - Starting Maze solving Server  
+INFO - 2020-06-23T20:39:41.631 - New Maze request!
+INFO - 2020-06-23T20:39:43.558 - Requesting Maze solution 
+INFO - 2020-06-23T20:39:53.581 - Maze generating server stopped 
+INFO - 2020-06-23T20:39:53.582 - Maze solving server stopped 
+INFO - 2020-06-23T20:41:45.793 - Creating Maze generating Server  
+INFO - 2020-06-23T20:41:45.812 - Creating Maze solving Server 
+INFO - 2020-06-23T20:41:45.814 - Starting Maze generating Server  
+INFO - 2020-06-23T20:41:45.814 - Starting Maze solving Server  
+INFO - 2020-06-23T20:41:47.417 - New Maze request!
+INFO - 2020-06-23T20:41:49.997 - New Maze request!
+INFO - 2020-06-23T20:41:53.043 - New Maze request!
+INFO - 2020-06-23T20:41:53.972 - Maze generating server stopped 
+INFO - 2020-06-23T20:41:53.972 - Maze solving server stopped 
+INFO - 2020-06-23T20:51:50.234 - Creating Maze generating Server  
+INFO - 2020-06-23T20:51:50.259 - Creating Maze solving Server 
+INFO - 2020-06-23T20:51:50.266 - Starting Maze generating Server  
+INFO - 2020-06-23T20:51:50.266 - Starting Maze solving Server  
+INFO - 2020-06-23T20:51:52.282 - New Maze request!
+INFO - 2020-06-23T20:52:10.722 - New Maze request!
+INFO - 2020-06-23T20:52:13.078 - New Maze request!
+INFO - 2020-06-23T20:52:15.670 - New Maze request!
+INFO - 2020-06-23T20:52:18.453 - New Maze request!
+INFO - 2020-06-23T20:53:14.071 - Maze Loaded 
+INFO - 2020-06-23T20:53:19.068 - Requesting Maze solution 
+INFO - 2020-06-23T20:53:31.472 - New Maze request!
+INFO - 2020-06-23T20:53:39.613 - Maze Loaded 
+INFO - 2020-06-23T20:53:44.620 - Requesting Maze solution 
+INFO - 2020-06-23T20:55:54.290 - Creating Maze generating Server  
+INFO - 2020-06-23T20:55:54.309 - Creating Maze solving Server 
+INFO - 2020-06-23T20:55:54.311 - Starting Maze generating Server  
+INFO - 2020-06-23T20:55:54.311 - Starting Maze solving Server  
+INFO - 2020-06-23T20:56:05.004 - Maze Loaded 
+INFO - 2020-06-23T20:56:06.290 - Requesting Maze solution 
+INFO - 2020-06-23T20:56:11.613 - New Maze request!
+INFO - 2020-06-23T20:56:16.236 - Maze Loaded 
+INFO - 2020-06-23T20:56:17.142 - Requesting Maze solution 
+INFO - 2020-06-23T21:07:37.011 - Creating Maze generating Server  
+INFO - 2020-06-23T21:07:37.031 - Creating Maze solving Server 
+INFO - 2020-06-23T21:07:37.032 - Starting Maze generating Server  
+INFO - 2020-06-23T21:07:37.032 - Starting Maze solving Server  
+INFO - 2020-06-23T21:07:45.455 - Maze Loaded 
+INFO - 2020-06-23T21:07:47.364 - Requesting Maze solution 
+INFO - 2020-06-23T21:07:50.242 - New Maze request!
+INFO - 2020-06-23T21:07:52.062 - New Maze request!
+INFO - 2020-06-23T21:07:57.901 - Maze Loaded 
+INFO - 2020-06-23T21:07:58.830 - Requesting Maze solution 
+INFO - 2020-06-23T21:09:10.506 - Creating Maze generating Server  
+INFO - 2020-06-23T21:09:10.526 - Creating Maze solving Server 
+INFO - 2020-06-23T21:09:10.527 - Starting Maze generating Server  
+INFO - 2020-06-23T21:09:10.527 - Starting Maze solving Server  
+INFO - 2020-06-23T21:09:23.420 - Maze Loaded 
+INFO - 2020-06-23T21:09:30.799 - Requesting Maze solution 
+INFO - 2020-06-23T21:09:36.197 - New Maze request!
+INFO - 2020-06-23T21:09:40.443 - New Maze request!
+INFO - 2020-06-23T21:09:46.104 - Maze Loaded 
+INFO - 2020-06-23T21:09:52.621 - Requesting Maze solution 
+INFO - 2020-06-23T21:16:15.992 - Creating Maze generating Server  
+INFO - 2020-06-23T21:16:16.011 - Creating Maze solving Server 
+INFO - 2020-06-23T21:16:16.014 - Starting Maze generating Server  
+INFO - 2020-06-23T21:16:16.015 - Starting Maze solving Server  
+INFO - 2020-06-23T21:16:18.895 - New Maze request!
+INFO - 2020-06-23T21:16:20.091 - Requesting Maze solution 
+INFO - 2020-06-23T21:16:28.329 - Maze Loaded 
+INFO - 2020-06-23T21:16:33.260 - Requesting Maze solution 
+INFO - 2020-06-23T21:16:37.876 - New Maze request!
+INFO - 2020-06-23T21:16:43.297 - New Maze request!
+INFO - 2020-06-23T21:16:50.695 - Maze Loaded 
+INFO - 2020-06-23T21:16:53.221 - Requesting Maze solution 
+INFO - 2020-06-23T22:46:07.149 - Creating Maze generating Server  
+INFO - 2020-06-23T22:46:07.166 - Creating Maze solving Server 
+INFO - 2020-06-23T22:46:07.167 - Starting Maze generating Server  
+INFO - 2020-06-23T22:46:07.168 - Starting Maze solving Server  
+INFO - 2020-06-23T22:47:14.588 - Creating Maze generating Server  
+INFO - 2020-06-23T22:47:14.603 - Creating Maze solving Server 
+INFO - 2020-06-23T22:47:14.605 - Starting Maze generating Server  
+INFO - 2020-06-23T22:47:14.605 - Starting Maze solving Server  
+INFO - 2020-06-23T22:47:17.699 - New Maze request!
+INFO - 2020-06-23T22:48:06.837 - Creating Maze generating Server  
+INFO - 2020-06-23T22:48:06.855 - Creating Maze solving Server 
+INFO - 2020-06-23T22:48:06.856 - Starting Maze generating Server  
+INFO - 2020-06-23T22:48:06.856 - Starting Maze solving Server  
+INFO - 2020-06-23T22:48:08.726 - New Maze request!
+INFO - 2020-06-23T22:48:12.935 - Maze generating server stopped 
+INFO - 2020-06-23T22:48:12.935 - Maze solving server stopped 
+INFO - 2020-06-23T22:48:39.440 - Creating Maze generating Server  
+INFO - 2020-06-23T22:48:39.456 - Creating Maze solving Server 
+INFO - 2020-06-23T22:48:39.457 - Starting Maze generating Server  
+INFO - 2020-06-23T22:48:39.457 - Starting Maze solving Server  
+INFO - 2020-06-23T22:48:46.482 - New Maze request!
+INFO - 2020-06-23T22:48:54.540 - Maze generating server stopped 
+INFO - 2020-06-23T22:48:54.540 - Maze solving server stopped 
+INFO - 2020-06-23T22:49:05.459 - Creating Maze generating Server  
+INFO - 2020-06-23T22:49:05.473 - Creating Maze solving Server 
+INFO - 2020-06-23T22:49:05.475 - Starting Maze generating Server  
+INFO - 2020-06-23T22:49:05.476 - Starting Maze solving Server  
+INFO - 2020-06-23T22:49:08.949 - Maze generating server stopped 
+INFO - 2020-06-23T22:49:08.950 - Maze solving server stopped 
+INFO - 2020-06-23T22:50:29.507 - Creating Maze generating Server  
+INFO - 2020-06-23T22:50:29.524 - Creating Maze solving Server 
+INFO - 2020-06-23T22:50:29.525 - Starting Maze generating Server  
+INFO - 2020-06-23T22:50:29.525 - Starting Maze solving Server  
+INFO - 2020-06-23T22:50:33.591 - New Maze request!
+INFO - 2020-06-23T22:50:36.551 - New Maze request!
+INFO - 2020-06-23T22:50:37.597 - Maze generating server stopped 
+INFO - 2020-06-23T22:50:37.598 - Maze solving server stopped 
+INFO - 2020-06-23T22:55:41.704 - Creating Maze generating Server  
+INFO - 2020-06-23T22:55:41.718 - Creating Maze solving Server 
+INFO - 2020-06-23T22:55:41.719 - Starting Maze generating Server  
+INFO - 2020-06-23T22:55:41.720 - Starting Maze solving Server  
+INFO - 2020-06-23T22:56:02.038 - New Maze request!
+INFO - 2020-06-23T22:56:13.160 - New Maze request!
+INFO - 2020-06-23T22:56:20.658 - New Maze request!
+INFO - 2020-06-23T22:56:31.160 - New Maze request!
+INFO - 2020-06-23T22:56:33.885 - Requesting Maze solution 
+INFO - 2020-06-23T22:58:06.163 - Maze generating server stopped 
+INFO - 2020-06-23T22:58:06.163 - Maze solving server stopped 
+INFO - 2020-06-23T23:02:42.334 - Creating Maze generating Server  
+INFO - 2020-06-23T23:02:42.355 - Creating Maze solving Server 
+INFO - 2020-06-23T23:02:42.356 - Starting Maze generating Server  
+INFO - 2020-06-23T23:02:42.357 - Starting Maze solving Server  
+INFO - 2020-06-23T23:02:48.542 - New Maze request!
+INFO - 2020-06-23T23:02:51.866 - New Maze request!
+INFO - 2020-06-23T23:02:53.385 - Requesting Maze solution 
+INFO - 2020-06-23T23:03:00.526 - Maze generating server stopped 
+INFO - 2020-06-23T23:03:00.526 - Maze solving server stopped 
+INFO - 2020-06-23T23:10:01.398 - Creating Maze generating Server  
+INFO - 2020-06-23T23:10:01.412 - Creating Maze solving Server 
+INFO - 2020-06-23T23:10:01.413 - Starting Maze generating Server  
+INFO - 2020-06-23T23:10:01.413 - Starting Maze solving Server  
+INFO - 2020-06-23T23:10:09.126 - New Maze request!
+INFO - 2020-06-23T23:10:10.607 - Requesting Maze solution 
+INFO - 2020-06-23T23:10:14.447 - Maze generating server stopped 
+INFO - 2020-06-23T23:10:14.447 - Maze solving server stopped 
+INFO - 2020-06-24T17:55:17.485 - Creating Maze generating Server  
+INFO - 2020-06-24T17:55:17.533 - Creating Maze solving Server 
+INFO - 2020-06-24T17:55:17.537 - Starting Maze generating Server  
+INFO - 2020-06-24T17:55:17.538 - Starting Maze solving Server  
+INFO - 2020-06-24T17:55:52.091 - New Maze request!
+INFO - 2020-06-24T17:55:58.474 - Maze generating server stopped 
+INFO - 2020-06-24T17:55:58.474 - Maze solving server stopped 
+INFO - 2020-06-24T17:56:40.814 - Creating Maze generating Server  
+INFO - 2020-06-24T17:56:40.832 - Creating Maze solving Server 
+INFO - 2020-06-24T17:56:40.834 - Starting Maze generating Server  
+INFO - 2020-06-24T17:56:40.834 - Starting Maze solving Server  
+INFO - 2020-06-24T17:56:46.454 - New Maze request!
+INFO - 2020-06-24T17:56:50.358 - Maze generating server stopped 
+INFO - 2020-06-24T17:56:50.358 - Maze solving server stopped 
+INFO - 2020-06-24T18:02:37.954 - Creating Maze generating Server  
+INFO - 2020-06-24T18:02:37.974 - Creating Maze solving Server 
+INFO - 2020-06-24T18:02:37.975 - Starting Maze generating Server  
+INFO - 2020-06-24T18:02:37.975 - Starting Maze solving Server  
+INFO - 2020-06-24T18:02:39.586 - New Maze request!
+INFO - 2020-06-24T18:02:46.103 - Maze generating server stopped 
+INFO - 2020-06-24T18:02:46.104 - Maze solving server stopped 
+INFO - 2020-06-24T18:10:36.788 - Creating Maze generating Server  
+INFO - 2020-06-24T18:10:36.805 - Creating Maze solving Server 
+INFO - 2020-06-24T18:10:36.807 - Starting Maze generating Server  
+INFO - 2020-06-24T18:10:36.807 - Starting Maze solving Server  
+INFO - 2020-06-24T18:10:40.492 - New Maze request!
+INFO - 2020-06-24T18:10:47.360 - New Maze request!
+INFO - 2020-06-24T18:10:52.989 - New Maze request!
+INFO - 2020-06-24T18:11:03.732 - Requesting Maze solution 
+INFO - 2020-06-24T18:11:11.974 - Requesting Maze solution 
+INFO - 2020-06-24T18:11:17.677 - New Maze request!
+INFO - 2020-06-24T18:11:24.743 - Maze generating server stopped 
+INFO - 2020-06-24T18:11:24.743 - Maze solving server stopped 
+INFO - 2020-06-24T18:14:24.297 - Creating Maze generating Server  
+INFO - 2020-06-24T18:14:24.323 - Creating Maze solving Server 
+INFO - 2020-06-24T18:14:24.325 - Starting Maze generating Server  
+INFO - 2020-06-24T18:14:24.325 - Starting Maze solving Server  
+INFO - 2020-06-24T18:14:27.268 - New Maze request!
+INFO - 2020-06-24T18:14:32.837 - New Maze request!
+INFO - 2020-06-24T18:14:50.227 - Maze generating server stopped 
+INFO - 2020-06-24T18:14:50.227 - Maze solving server stopped 
+INFO - 2020-06-24T18:15:57.481 - Creating Maze generating Server  
+INFO - 2020-06-24T18:15:57.500 - Creating Maze solving Server 
+INFO - 2020-06-24T18:15:57.501 - Starting Maze generating Server  
+INFO - 2020-06-24T18:15:57.502 - Starting Maze solving Server  
+INFO - 2020-06-24T18:16:00.238 - New Maze request!
+INFO - 2020-06-24T18:16:05.804 - New Maze request!
+INFO - 2020-06-24T18:16:08.426 - Requesting Maze solution 
+INFO - 2020-06-24T18:16:20.173 - Maze generating server stopped 
+INFO - 2020-06-24T18:16:20.173 - Maze solving server stopped 
+INFO - 2020-06-24T18:19:23.029 - Creating Maze generating Server  
+INFO - 2020-06-24T18:19:23.046 - Creating Maze solving Server 
+INFO - 2020-06-24T18:19:23.047 - Starting Maze generating Server  
+INFO - 2020-06-24T18:19:23.047 - Starting Maze solving Server  
+INFO - 2020-06-24T18:19:32.712 - New Maze request!
+INFO - 2020-06-24T18:19:34.407 - Requesting Maze solution 
+INFO - 2020-06-24T18:19:52.070 - New Maze request!
+INFO - 2020-06-24T18:20:03.423 - New Maze request!
+INFO - 2020-06-24T18:20:23.972 - New Maze request!
+INFO - 2020-06-24T18:20:25.733 - Maze generating server stopped 
+INFO - 2020-06-24T18:20:25.733 - Maze solving server stopped 
+INFO - 2020-06-24T18:22:38.082 - Creating Maze generating Server  
+INFO - 2020-06-24T18:22:38.102 - Creating Maze solving Server 
+INFO - 2020-06-24T18:22:38.103 - Starting Maze generating Server  
+INFO - 2020-06-24T18:22:38.104 - Starting Maze solving Server  
+INFO - 2020-06-24T18:22:41.358 - New Maze request!
+INFO - 2020-06-24T18:22:57.405 - Maze generating server stopped 
+INFO - 2020-06-24T18:22:57.406 - Maze solving server stopped 
+INFO - 2020-06-24T18:23:36.794 - Creating Maze generating Server  
+INFO - 2020-06-24T18:23:36.811 - Creating Maze solving Server 
+INFO - 2020-06-24T18:23:36.815 - Starting Maze generating Server  
+INFO - 2020-06-24T18:23:36.815 - Starting Maze solving Server  
+INFO - 2020-06-24T18:23:38.367 - New Maze request!
+INFO - 2020-06-24T18:23:43.106 - Maze generating server stopped 
+INFO - 2020-06-24T18:23:43.107 - Maze solving server stopped 
+INFO - 2020-06-24T18:25:28.491 - Creating Maze generating Server  
+INFO - 2020-06-24T18:25:28.510 - Creating Maze solving Server 
+INFO - 2020-06-24T18:25:28.511 - Starting Maze generating Server  
+INFO - 2020-06-24T18:25:28.511 - Starting Maze solving Server  
+INFO - 2020-06-24T18:25:32.701 - New Maze request!
+INFO - 2020-06-24T18:25:36.868 - New Maze request!
+INFO - 2020-06-24T18:26:00.805 - Maze Loaded 
+INFO - 2020-06-24T18:26:04.106 - Requesting Maze solution 
+INFO - 2020-06-24T18:27:08.264 - New Maze request!
+INFO - 2020-06-24T18:27:21.804 - Maze Loaded 
+INFO - 2020-06-24T18:27:23.143 - Requesting Maze solution 
+INFO - 2020-06-24T18:27:44.899 - Maze generating server stopped 
+INFO - 2020-06-24T18:27:44.899 - Maze solving server stopped 
+INFO - 2021-03-11T07:42:35.418 - Creating Maze generating Server  
+INFO - 2021-03-11T07:42:35.438 - Creating Maze solving Server 
+INFO - 2021-03-11T07:42:35.440 - Starting Maze generating Server  
+INFO - 2021-03-11T07:42:35.440 - Starting Maze solving Server  
+INFO - 2021-03-11T07:42:36.761 - New Maze request!
+INFO - 2021-03-11T07:43:29.836 - Creating Maze generating Server  
+INFO - 2021-03-11T07:43:29.852 - Creating Maze solving Server 
+INFO - 2021-03-11T07:43:29.853 - Starting Maze generating Server  
+INFO - 2021-03-11T07:43:29.854 - Starting Maze solving Server  
+INFO - 2021-03-11T07:43:31.092 - New Maze request!
+INFO - 2021-03-11T07:43:52.293 - New Maze request!
+INFO - 2021-03-11T07:43:54.990 - New Maze request!
+INFO - 2021-03-11T07:44:04.442 - New Maze request!
+INFO - 2021-03-11T07:44:16.639 - Maze generating server stopped 
+INFO - 2021-03-11T07:44:16.640 - Maze solving server stopped 
+INFO - 2021-03-11T07:45:07.236 - Creating Maze generating Server  
+INFO - 2021-03-11T07:45:07.256 - Creating Maze solving Server 
+INFO - 2021-03-11T07:45:07.257 - Starting Maze generating Server  
+INFO - 2021-03-11T07:45:07.258 - Starting Maze solving Server  
+INFO - 2021-03-11T07:45:30.614 - Maze generating server stopped 
+INFO - 2021-03-11T07:45:30.615 - Maze solving server stopped 
+INFO - 2021-03-11T07:56:04.793 - Creating Maze generating Server  
+INFO - 2021-03-11T07:56:04.801 - Creating Maze solving Server 
+INFO - 2021-03-11T07:56:04.802 - Starting Maze generating Server  
+INFO - 2021-03-11T07:56:04.802 - Starting Maze solving Server  
