@@ -9,4 +9,4 @@ How to run the project:
 
 # Game Instructions
 
-![](images/Screenshot_1.png)
+![](images/Screenshot_3.png)
