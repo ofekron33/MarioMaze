@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import View.MazeDisplayer?>
+<?import View.SolDisplayer?>
+<?import java.lang.String?>
+<?import javafx.collections.FXCollections?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<SplitPane dividerPositions="0.34124293785310733"
+           maxHeight="-Infinity" maxWidth="-Infinity"
+           minHeight="-Infinity" minWidth="-Infinity"
+           onScroll="#Zoom" prefHeight="690.0" prefWidth="1150.0"
+           xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1"
+           fx:controller="View.MyViewController"
+           style="-fx-background-image: url(Images/backround1.jpg);
+               -fx-background-size: 100% 100% ;
+                "
+
+        >    <items>
+
+
+      <BorderPane>
+         <center>
+              <Pane prefHeight="501.0" prefWidth="303.0">
+                  <children>
+                      <Button fx:id="newGameButton" layoutX="42.0" layoutY="142.0" mnemonicParsing="false" onAction="#generateMaze" prefHeight="51.0" prefWidth="175.0" text="New Game">
+                     <font>
+                        <Font size="16.0" />
+                     </font></Button>
+                      <Button fx:id="solver" disable="true" layoutX="42.0" layoutY="251.0" mnemonicParsing="false" onAction="#SolveMaze" prefHeight="51.0" prefWidth="300.0" text="Solve">
+                     <font>
+                        <Font size="16.0" />
+                     </font></Button>
+                      <Button fx:id="exitbutton" layoutX="250.0" layoutY="574.0" mnemonicParsing="false" onAction="#CloseApp" prefHeight="51.0" prefWidth="110.0" text="Exit" />
+                      <Label layoutX="4.0" layoutY="33.0" prefHeight="17.0" prefWidth="90.0" text="Player Row:" />
+                      <Label layoutX="4.0" layoutY="64.0" prefHeight="17.0" prefWidth="100.0" text="Player Col:" />
+                      <Label fx:id="lbl_player_row" layoutX="102.0" layoutY="33.0" prefHeight="17.0" prefWidth="40.0" />
+                      <Label fx:id="lbl_player_column" layoutX="102.0" layoutY="64.0" />
+                      <Button fx:id="loadGameButton" layoutX="195.0" layoutY="320.0" mnemonicParsing="false" onAction="#LoadMaze" prefHeight="51.0" prefWidth="148.0" text="Load Game">
+                     <font>
+                        <Font size="16.0" />
+                     </font></Button>
+                      <Button fx:id="saveGameButton" disable="true" layoutX="42.0" layoutY="320.0" mnemonicParsing="false" onAction="#SaveMaze" prefHeight="51.0" prefWidth="135.0" text="Save Game">
+                     <font>
+                        <Font size="16.0" />
+                     </font></Button>
+
+                      <Label layoutX="245.0" layoutY="118.0" prefHeight="17.0" prefWidth="125.0" text="Maze properties:">
+                     <font>
+                        <Font name="Arial Bold" size="14.0" />
+                     </font></Label>
+                      <Label layoutX="244.0" layoutY="144.0" prefHeight="17.0" prefWidth="82.0" text="Height:">
+                     <font>
+                        <Font name="System Bold" size="12.0" />
+                     </font></Label>
+                      <Label layoutX="242.0" layoutY="171.0" prefHeight="17.0" prefWidth="64.0" text="Width">
+                     <font>
+                        <Font name="System Bold" size="12.0" />
+                     </font></Label>
+                      <TextField fx:id="maze_rows" layoutX="304.0" layoutY="139.0" prefHeight="25.0" prefWidth="40.0" text="5" />
+                      <TextField fx:id="maze_col" layoutX="304.0" layoutY="167.0" prefHeight="25.0" prefWidth="40.0" text="5" />
+                  <Button fx:id="check" layoutX="299.0" layoutY="52.0" mnemonicParsing="false" onAction="#playMusic" text="Music" />
+              <ChoiceBox fx:id="choose_char" layoutX="192.0" layoutY="202.0" onAction="#chooseChar" prefWidth="150.0">
+                          <items>
+                              <FXCollections fx:factory="observableArrayList">
+                                  <String fx:value="Mario" />
+                                  <String fx:value="Luigi" />
+                                  <String fx:value="Princess Peach" />
+                                  <String fx:value="Yoshi" />
+                                  <String fx:value="Bowser" />
+                              </FXCollections>
+                          </items>
+                      </ChoiceBox>
+                      <Label layoutX="46.0" layoutY="206.0" prefHeight="17.0" prefWidth="127.0" text="Choose Character">
+                     <font>
+                        <Font name="Arial Bold" size="14.0" />
+                     </font></Label>
+      </children>
+              </Pane>
+         </center>
+         <top>
+            <MenuBar BorderPane.alignment="CENTER">
+              <menus>
+                <Menu mnemonicParsing="false" text="File">
+                  <items>
+                    <MenuItem fx:id="menuNew" mnemonicParsing="false" onAction="#generateMaze" text="New" />
+                        <MenuItem fx:id="menuSave" disable="true" mnemonicParsing="false" onAction="#SaveMaze" text="Save" />
+                        <MenuItem fx:id="menuLoad" mnemonicParsing="false" onAction="#LoadMaze" text="Load" />
+                  </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Options">
+                  <items>
+                    <MenuItem fx:id="properties" mnemonicParsing="false" onAction="#properties" text="Properties" />
+                  </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Help">
+                     <items>
+                        <MenuItem fx:id="help" mnemonicParsing="false" onAction="#help" text="Help" />
+                     </items></Menu>
+                  <Menu mnemonicParsing="false" text="Exit">
+                     <items>
+                        <MenuItem fx:id="menuExit" mnemonicParsing="false" onAction="#CloseApp" text="Exit" />
+                     </items></Menu>
+                  <Menu mnemonicParsing="false" text="About">
+                     <items>
+                        <MenuItem fx:id="about" mnemonicParsing="false" onAction="#about" text="about" />
+                     </items></Menu>
+              </menus>
+            </MenuBar>
+         </top>
+      </BorderPane>
+        <AnchorPane fx:id ="Apane" minHeight="0.0" minWidth="0.0" prefHeight="356.0" prefWidth="0.0">
+            <children>
+                <MazeDisplayer fx:id="mazeDisplayer" height="685.0" imageFileNameEnd="./Resources/Images/End.png" imageFileNamePlayer="./Resources/Images/mario2.png" imageFileNameWall="./Resources/Images/wall1.png" onKeyPressed="#keyPressed" onMouseClicked="#mouseClicked" onMouseDragged="#mouseMove" onMouseMoved="#mouseMove" width="700.0" />
+                <SolDisplayer fx:id="solutionDisplayer" height="685.0" onMouseDragged="#mouseMove" onMouseMoved="#mouseMove" imageFileNameEnd="./Resources/Images/End.png" imageFileSolvePath="./Resources/images/mario_PNG75.png" opacity="0.5" width="700.0" />
+            </children></AnchorPane>
+    </items>
+</SplitPane>
