@@ -17,3 +17,5 @@ How to run the project:
 # In Game
 ![](images/Screenshot_2.png)
 
+# Display Solution 
+![](images/Screenshot_4.png)
