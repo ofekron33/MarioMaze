@@ -10,3 +10,10 @@ How to run the project:
 # Game Instructions
 
 ![](images/Screenshot_3.png)
+
+# Main Menu
+![](images/Screenshot_1.png)
+
+# In Game
+![](images/Screenshot_2.png)
+
