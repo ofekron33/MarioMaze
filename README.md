@@ -18,4 +18,4 @@ How to run the project:
 ![](images/Screenshot_2.png)
 
 # Display Solution 
-![](images/Screenshot_4.png)
+![](images/Screenshot_5.png)
